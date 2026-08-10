@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: igry-s-dzhekpotom.github.io
+Sitemap: https://igry-s-dzhekpotom.github.io/sitemap.xml
